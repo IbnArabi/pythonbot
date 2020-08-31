@@ -1,0 +1,14 @@
+header {
+	color: whitesmoke;
+	background-color: blue;
+}
+header:hover {
+	color: blue;
+	background-color: crimson;
+}
+h1 {
+	color: green;
+}
+input {
+	width: 370px;
+}
